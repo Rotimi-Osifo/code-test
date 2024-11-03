@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/mnt/c/wsl-share/code-dev/code-test/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/mnt/c/wsl-share/code-dev/code-test/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/mnt/c/wsl-share/code-dev/code-test/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/mnt/c/wsl-share/code-dev/code-test/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/mnt/c/wsl-share/code-dev/code-test/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/mnt/c/wsl-share/code-dev/code-test/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/mnt/c/wsl-share/code-dev/code-test/target/dev-bundle/config",
+  "jarResourcesFolder": "/mnt/c/wsl-share/code-dev/code-test/./src/main/frontend/generated/jar-resources",
+  "themeName": "dataview-theme",
+  "clientServiceWorkerSource": "/mnt/c/wsl-share/code-dev/code-test/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

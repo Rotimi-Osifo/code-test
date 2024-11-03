@@ -1,0 +1,7 @@
+/mnt/c/wsl-share/code-dev/code-test/src/test/java/org/iop/code_test_vaadin/CodeTestVaadinApplicationTests.java
+/mnt/c/wsl-share/code-dev/code-test/src/test/java/org/iop/code_test_vaadin/FruitStandFunctionalTest.java
+/mnt/c/wsl-share/code-dev/code-test/src/test/java/org/iop/code_test_vaadin/FruitStandTests.java
+/mnt/c/wsl-share/code-dev/code-test/src/test/java/org/iop/code_test_vaadin/data/CreateTestData.java
+/mnt/c/wsl-share/code-dev/code-test/src/test/java/org/iop/code_test_vaadin/model/FruitBasketTests.java
+/mnt/c/wsl-share/code-dev/code-test/src/test/java/org/iop/code_test_vaadin/service/FruitBasketPriceCalculatorTests.java
+/mnt/c/wsl-share/code-dev/code-test/src/test/java/org/iop/code_test_vaadin/service/FruitStandChooserTests.java

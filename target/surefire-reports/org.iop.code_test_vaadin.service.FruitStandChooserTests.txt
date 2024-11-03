@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.iop.code_test_vaadin.service.FruitStandChooserTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s -- in org.iop.code_test_vaadin.service.FruitStandChooserTests

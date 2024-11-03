@@ -1,0 +1,15 @@
+org/iop/code_test_vaadin/views/DataView.class
+org/iop/code_test_vaadin/factory/FruitBasketFactory.class
+org/iop/code_test_vaadin/entity/FruitStand.class
+org/iop/code_test_vaadin/repository/FruitStandRepository.class
+org/iop/code_test_vaadin/DTO/FruitBasketDTO.class
+org/iop/code_test_vaadin/views/DataView$LoadDataEventListener.class
+org/iop/code_test_vaadin/service/BasketsPriceCalculator.class
+org/iop/code_test_vaadin/service/DataService.class
+org/iop/code_test_vaadin/views/MultiSelectComboBoxItemCustomName.class
+org/iop/code_test_vaadin/repository/FruitBasketRepository.class
+org/iop/code_test_vaadin/service/FruitStandChooser.class
+org/iop/code_test_vaadin/CodeTestVaadinApplication.class
+org/iop/code_test_vaadin/service/FruitStandService.class
+org/iop/code_test_vaadin/service/FruitBasketService.class
+org/iop/code_test_vaadin/entity/FruitBasket.class

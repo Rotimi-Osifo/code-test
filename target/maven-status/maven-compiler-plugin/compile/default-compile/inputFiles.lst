@@ -1,0 +1,14 @@
+/mnt/c/wsl-share/code-dev/code-test/src/main/java/org/iop/code_test_vaadin/CodeTestVaadinApplication.java
+/mnt/c/wsl-share/code-dev/code-test/src/main/java/org/iop/code_test_vaadin/DTO/FruitBasketDTO.java
+/mnt/c/wsl-share/code-dev/code-test/src/main/java/org/iop/code_test_vaadin/entity/FruitBasket.java
+/mnt/c/wsl-share/code-dev/code-test/src/main/java/org/iop/code_test_vaadin/entity/FruitStand.java
+/mnt/c/wsl-share/code-dev/code-test/src/main/java/org/iop/code_test_vaadin/factory/FruitBasketFactory.java
+/mnt/c/wsl-share/code-dev/code-test/src/main/java/org/iop/code_test_vaadin/repository/FruitBasketRepository.java
+/mnt/c/wsl-share/code-dev/code-test/src/main/java/org/iop/code_test_vaadin/repository/FruitStandRepository.java
+/mnt/c/wsl-share/code-dev/code-test/src/main/java/org/iop/code_test_vaadin/service/BasketsPriceCalculator.java
+/mnt/c/wsl-share/code-dev/code-test/src/main/java/org/iop/code_test_vaadin/service/DataService.java
+/mnt/c/wsl-share/code-dev/code-test/src/main/java/org/iop/code_test_vaadin/service/FruitBasketService.java
+/mnt/c/wsl-share/code-dev/code-test/src/main/java/org/iop/code_test_vaadin/service/FruitStandChooser.java
+/mnt/c/wsl-share/code-dev/code-test/src/main/java/org/iop/code_test_vaadin/service/FruitStandService.java
+/mnt/c/wsl-share/code-dev/code-test/src/main/java/org/iop/code_test_vaadin/views/DataView.java
+/mnt/c/wsl-share/code-dev/code-test/src/main/java/org/iop/code_test_vaadin/views/MultiSelectComboBoxItemCustomName.java
